@@ -1,0 +1,9 @@
+ - 크롬 개발자 도구
+ 1. DOM 구조 분석(요소검사)
+ 2. 선택자(Selector) 추출
+ 3. Console 도구
+ 4. Source - 로딩 한 리소스 분석 및 디버깅
+ 5. 네트워크 탭 및 기타
+    preserve log -> 불러온 내용을 누적해서 기록.
+
+    web application 을 만들면서 참고하면 좋음!
