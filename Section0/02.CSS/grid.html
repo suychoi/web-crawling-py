@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>grid</title>
+    <style>
+    #grid{
+      border:5px solid pink;
+      display:grid;
+      grid-template-columns: 150px 1fr
+      /* 1fr 나머지 공간 다씀, fr 은 화면 전체를 나눠서 쓰도록 분할하는 단위 */
+    }
+    div{
+      border:5px solid gray;
+    }
+    </style>
+</head>
+<body>
+    <div id="grid">
+        <div>Navigation</div>
+        <div>Article</div>
+    </div>
+
+</body>
+</html>
