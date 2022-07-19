@@ -24,4 +24,9 @@
     선택자 우선순위 : id 선택자 > class > 태그(=element) , (구체적인 것이 포괄적인 것보다 높음)
     + 같은 경우 나중에 선언된 순서
 
+8. 박스 모델 !!!
+    화면 전체를 쓰는 tag들을 : block level element ( h1 )
+    자신의 부피만큼만 쓰는 tag들 : inline element ( a )
+
+
 
