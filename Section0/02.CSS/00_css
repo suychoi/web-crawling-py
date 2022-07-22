@@ -33,5 +33,7 @@
     <div> 태그, block level element 기능이 없는, 오직 디자인을 위한 태그
     <span> tag, inline element
     caniuse.com : css,html,javascript 같은 언어에서 사용되는 문법의 지원여부를 확인할 수 있는곳
-
+11. 그리드 써먹기
+12. 미디어 쿼리 소개(ing)
+    반응형 웹 : 화면의 크기에 따라서 요소들이 반응해서 최적화된 모양으로 바뀌게 하는것
 
