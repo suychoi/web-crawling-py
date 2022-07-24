@@ -21,3 +21,8 @@
   9. pip uninstall {패키지명}
   10. conda remove --name test1 --all
   11. conda clean : 아나콘다 캐시 삭제
+
+  + Atom Editor
+  1. 오른쪽 아래 github 탭에서 우클릭하면 push pull 가능
+  2. 실행 : ctrl + shift + B
+  3.
